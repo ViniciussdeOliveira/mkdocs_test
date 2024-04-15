@@ -30,6 +30,11 @@ theme:
       primary: teal
       accent: lime
 
+nav:
+  - Início: index.md
+
+  - Visão de Produto e Projeto: pagina2.md
+
 markdown_extensions:
   - tables
   - attr_list
