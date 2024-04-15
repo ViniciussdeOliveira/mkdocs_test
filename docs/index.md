@@ -9,9 +9,11 @@ Esse repositório foi criado para o desenvolvimento do projeto da disciplina de 
 A equipe SCESPE é formada por estudantes de Engenharia de Software da Universidade de Brasília, apresentados na seguinte tabela.
 
 <center>
+
 | Foto        | Nome                                 | Github |
 | :---------: | :----------------------------------: | :----: |
-| ![Foto Vinícius de Oliveira(Membro Time)](https://avatars.githubusercontent.com/u/88348878?v=4){ align=center, width="100" } | Vinícius de Oliveira| [:fontawesome-brands-github: ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+| ![Foto Vinícius de Oliveira(Membro Time)](https://avatars.githubusercontent.com/u/88348878?v=4){ align=center, width="100" } | Vinícius de Oliveira | [:fontawesome-brands-github: ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+
 </center>
 
 <div style="text-align: center">
