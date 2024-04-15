@@ -6,7 +6,7 @@ Logo
 Esse repositório foi criado para o desenvolvimento do projeto da disciplina de Requisitos de Software da Universidade de Brasília, durante o 1º semestre de 2024. A disciplina tem o objetivo de ensinar sobre os fundamentos da engenharia de requisitos, sendo uma área interdisciplinar da Engenharia de Software. O nosso projeto ....
 
 ## Equipe
-A equipe SCESPE é formada por estudantes de Engenharia de Software da Universidade de Brasília, apresentados na seguinte tabela.
+A equipe SCESPE é formada por estudantes de Engenharia de Software da Universidade de Brasília apresentados a seguir.
 
 <center>
 
@@ -17,7 +17,7 @@ A equipe SCESPE é formada por estudantes de Engenharia de Software da Universid
 </center>
 
 <div style="text-align: center">
-<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
+<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2024).</p>
 </div>
 
 ## Histórico de versão
