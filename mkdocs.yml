@@ -41,6 +41,8 @@ nav:
     - Unidade 1:
       - Teste: entregas/unidade1/testandoPDF.md
       - Historias: entregas/unidade1/Historias.md
+    - Teste:
+      - Questionario: entregas/Teste/quest.md
 
 markdown_extensions:
   - tables
