@@ -5,8 +5,8 @@ repo_url: "https://github.com/mdsreq-fga-unb/2024.1-SCESPE-"
 
 theme:
   name: material
-  logo: assets/logoSCESPE.jpeg
-  favicon: assets/logoSCESPE.jpeg
+  logo: assets/icon_SCESPE.png
+  favicon: assets/icon_SCESPE.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -33,9 +33,13 @@ theme:
       accent: lime
 
 nav:
-  - Início: index.md
+  - Sobre: index.md
 
-  - Visão de Produto e Projeto: pagina2.md
+  - Visão de Produto e Projeto: visao_produto_projeto.md
+
+  - Entregas:
+    - Unidade 1:
+      - Teste: entregas/unidade1/testandoPDF.md
 
 markdown_extensions:
   - tables
