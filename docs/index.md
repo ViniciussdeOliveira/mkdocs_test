@@ -1,6 +1,6 @@
 # Sistema de Controle e EStatística de Produtos em Estoque (SCESPE)
 
-Logo
+![Logo](assets/logoSCESPE.jpeg)
 
 ## Introdução
 Esse repositório foi criado para o desenvolvimento do projeto da disciplina de Requisitos de Software da Universidade de Brasília, durante o 1º semestre de 2024. A disciplina tem o objetivo de ensinar sobre os fundamentos da engenharia de requisitos, sendo uma área interdisciplinar da Engenharia de Software. O nosso projeto ....

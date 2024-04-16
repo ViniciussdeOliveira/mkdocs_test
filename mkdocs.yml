@@ -5,6 +5,8 @@ repo_url: "https://github.com/mdsreq-fga-unb/2024.1-SCESPE-"
 
 theme:
   name: material
+  logo: assets/logoSCESPE.jpeg
+  favicon: assets/logoSCESPE.jpeg
   features:
     - navigation.tabs
     - navigation.sections
